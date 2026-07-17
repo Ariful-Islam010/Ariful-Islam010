@@ -16,14 +16,6 @@ I am a Software Engineering student passionate about Full-Stack Development, Mac
 - **Machine Learning:** Scikit-learn, Pandas, NumPy
 - **Tools & Technologies:** Git, GitHub, VS Code, IntelliJ IDEA
 
-## 🌱 Currently Learning
-
-- Full-Stack Web Development
-- Machine Learning
-- Flutter
-- Spring Boot
-- React.js
-- Data Structures & Algorithms
 
 ## 👯 Looking to Collaborate On
 
@@ -38,8 +30,3 @@ I am a Software Engineering student passionate about Full-Stack Development, Mac
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40">](https://www.facebook.com/arifulislam0160137)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/x.svg" alt="X" height="40">](https://x.com/ariful1850)
 
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful-Islam010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariful-Islam010&show_icons=true)
