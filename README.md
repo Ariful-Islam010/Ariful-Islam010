@@ -2,7 +2,9 @@
 
 #### Software Engineering | Full-Stack Developer | Machine Learning Enthusiast
 
-![Software Engineering](https://tse3.mm.bing.net/th?id=OIP.geKaGxvZOhyS-81XBwpGLQHaEK&pid=Api&P=0&h=220)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Software Engineering Banner" />
+</p>
 
 I am a Software Engineering student passionate about Full-Stack Development, Machine Learning, and building real-world applications. I enjoy learning new technologies, solving programming problems, and contributing to open-source projects.
 
@@ -11,7 +13,7 @@ I am a Software Engineering student passionate about Full-Stack Development, Mac
 - **Programming Languages:** C, C++, Java, Python, JavaScript, Dart
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Frameworks:** Flutter
-- **Backend:** Java, Python
+- **Backend:** Node.js, Express.js, Java, Python
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Machine Learning:** Scikit-learn, Pandas, NumPy
 - **Tools & Technologies:** Git, GitHub, VS Code, IntelliJ IDEA
